@@ -1,0 +1,297 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Kwame Owusu-Baah | Data Storyteller Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Kwame Owusu-Baah<br />
+						The Data Storyteller</h1>
+						<p>Highly motivated and results-oriented Data and Business Analyst passionate about continuous learning, with a proven ability to translate complex data into actionable insights that drive business value. <br />
+						Demonstrated success in data analysis, project management, and exceeding performance goals. Proven ability to identify trends, develop data-driven strategies, and effectively communicate key findings to diverse stakeholders.
+						</p>
+						<ul class="actions">
+							<li><a href="#about" class="button icon solid solo fa-arrow-down scrolly">Learn More About Me</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Kwame The Data Storyteller</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="#intro">Home</a></li>
+							<li><a href="#about">About Me</a></li>
+							<li><a href="#experience">Experience</a></li>
+							<li><a href="#projects">Projects</a></li>
+							<li><a href="#certifications">Certifications</a></li>
+							<li><a href="#contact">Contact</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/kwame-owusu-baah-b71b4361/" target="_blank" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/KWAMEOB" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.kaggle.com/kwameob" target="_blank" class="icon brands alt fa-kaggle"><span class="label">Kaggle</span></a></li>
+							<li><a href="https://public.tableau.com/app/profile/kwame.owusu.baah" target="_blank" class="icon brands alt fa-tableau"><span class="label">Tableau Public</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- About Me Section -->
+						<section id="about" class="post featured">
+							<header class="major">
+								<h2>About Me</h2>
+								<p>Highly motivated and results-oriented Data and Business Analyst passionate about continuous learning, with a proven ability to translate complex data into actionable insights that drive business value. Demonstrated success in data analysis, project management, and exceeding performance goals. Proven ability to identify trends, develop data-driven strategies, and effectively communicate key findings to diverse stakeholders.</p>
+							</header>
+							<div class="row">
+								<div class="col-6 col-12-small">
+									<h3>Skills</h3>
+									<ul>
+										<li><strong>Data Analysis:</strong> Strong analytical and problem-solving skills, with the ability to identify trends, insights, and root causes from complex data sets.</li>
+										<li><strong>Technical Skills:</strong> Proficient in SQL, Tableau, Microsoft Excel, Python, Power BI, Google Sheets, R, SAS, and BigQuery. Extensive experience with data management, analysis, and visualization tools.</li>
+										<li><strong>Reporting:</strong> Proven ability to create comprehensive reports, dashboards, and presentations to communicate key findings and recommendations to both technical and non-technical audiences.</li>
+									</ul>
+								</div>
+								<div class="col-6 col-12-small">
+									<ul>
+										<li><strong>Process Improvement:</strong> Experience in analyzing processes, identifying gaps, and recommending improvements to enhance efficiency and effectiveness.</li>
+										<li><strong>Communication:</strong> Excellent written and verbal communication skills, with the ability to articulate complex information clearly and concisely to diverse stakeholders.</li>
+										<li><strong>Client Relationship Management:</strong> Proven ability to build and maintain strong client relationships, providing exceptional service and exceeding expectations.</li>
+									</ul>
+								</div>
+							</div>
+						</section>
+
+						<!-- Experience Section -->
+						<section id="experience" class="posts">
+							<header class="major">
+								<h2>Experience</h2>
+							</header>
+							<article>
+								<header>
+									<h3>Volunteer Data Analyst<br />Digital Chores (A startup Digital Web Design Company)</h3>
+									<p class="date">July 2022 - Present</p>
+								</header>
+								<ul>
+									<li>Utilize strong analytical skills to examine user behavior data and identify key trends and areas for improvement in website design, user experience, and conversion rates.</li>
+									<li>Leverage expertise in Tableau/Power BI to design and develop visually compelling and informative dashboards to communicate key insights and recommendations to both technical and non-technical stakeholders.</li>
+									<li>Demonstrate proficiency in developing tailored data analysis solutions, including data cleaning, transformation, visualization, and reporting, to address specific client needs and business objectives.</li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<h3>Sales Representative<br />Databank Financial Services</h3>
+									<p class="date">February 2017 - December 2019</p>
+								</header>
+								<ul>
+									<li>Consistently exceeded sales targets, opening an average of 50 new investment accounts per month.</li>
+									<li>Provided personalized investment advice to 10+ clients daily, leveraging in-depth needs analysis and fund research to recommend suitable products.</li>
+									<li>Enhanced client mandate and value performance, earning bank-wide recognition as "Best Performing Databank Co-Location" in 2017 and 2018.</li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<h3>Field Supervisor<br />Alliance Waste Limited</h3>
+									<p class="date">February 2016 - June 2016</p>
+								</header>
+								<ul>
+									<li>Collected and analyzed data from over 1,500 households, leading to actionable recommendations for optimizing customer registration, bill coding, and bin distribution processes.</li>
+									<li>Successfully led and motivated a team of 10 field operations personnel, ensuring the efficient execution of daily tasks and achieving operational goals.</li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<h3>Teller<br />UniBank Ghana (now Consolidated Bank Ghana)</h3>
+									<p class="date">April 2015 - January 2016</p>
+								</header>
+								<ul>
+									<li>Efficiently handled an average of 100 customer transactions daily, ensuring accuracy in check processing, cash deposits, and withdrawals to mitigate financial risk.</li>
+									<li>Proactively identified customer needs and provided personalized recommendations on suitable bank products and services through data analysis and effective communication.</li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<h3>Sales Officer<br />UniBank Ghana (now Consolidated Bank Ghana)</h3>
+									<p class="date">May 2013 - April 2015</p>
+								</header>
+								<ul>
+									<li>Drove sales and customer acquisition by actively prospecting for new clients and successfully opening accounts.</li>
+									<li>Provided exceptional customer service, guiding clients through the account opening process and ensuring their financial needs were met.</li>
+									<li>Consistently achieved or exceeded sales targets for various bank products, contributing to overall branch performance.</li>
+								</ul>
+							</article>
+						</section>
+
+
+						<!-- Projects Section -->
+						<section id="projects" class="posts">
+							<header class="major">
+								<h2>Projects & Capstones</h2>
+							</header>
+
+							<!-- Featured Project: Rocket Landing Success -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="https://github.com/KWAMEOB/IBM-Data-Science-Capstone-Project" target="_blank">Predictive Model for Rocket Landing Success for SpaceY<br />
+									</a></h2>
+									<p>IBM Data Science Capstone Project | January 2023</p>
+								</header>
+								<a href="https://github.com/KWAMEOB/IBM-Data-Science-Capstone-Project" target="_blank" class="image main"><img src="images/rocket_landing.png" alt="Rocket Landing Success" /></a>
+								<p>Developed a machine learning model to predict first-stage rocket landing success, enabling SpaceY to make informed decisions for competitive bidding against SpaceX. Conducted in-depth analysis of SpaceX launch data, creating insightful dashboards to visualize key factors influencing successful landings. Showcasing strong data visualization and machine learning skills.</p>
+								<ul class="actions special">
+									<li><a href="https://github.com/KWAMEOB/IBM-Data-Science-Capstone-Project" target="_blank" class="button large">View Project</a></li>
+								</ul>
+							</article>
+
+							<!-- Cyclistic Bike Share -->
+							<article>
+								<header>
+									<h2><a href="https://github.com/KWAMEOB/Cyclistic_Bike_Share_Google_Data_Analytics_Capstone" target="_blank">Cyclistic Bike Share - Google Data Analytics Capstone<br />
+									</a></h2>
+									<p class="date">July 2022</p>
+								</header>
+								<a href="https://github.com/KWAMEOB/Cyclistic_Bike_Share_Google_Data_Analytics_Capstone" target="_blank" class="image fit"><img src="images/CYCLE.png" alt="Cyclistic Bike Share Analysis" /></a>
+								<p>Conducted in-depth analysis of Cyclistic bike-share usage patterns, identifying key differences between annual members and casual riders. Developed a data-driven digital marketing strategy to increase annual memberships, leveraging insights on rider behavior and preferences. Project encompassed a large dataset from Chicago's Cyclistic bike-share program.</p>
+								<ul class="actions special">
+									<li><a href="https://github.com/KWAMEOB/Cyclistic_Bike_Share_Google_Data_Analytics_Capstone" target="_blank" class="button">View Project</a></li>
+								</ul>
+							</article>
+
+							<!-- Sales Data Analysis -->
+							<article>
+								<header>
+									<h2><a href="https://github.com/KWAMEOB/Sales_Data_Analysis" target="_blank">Sales Data and Analysis<br />
+									</a></h2>
+								</header>
+								<a href="https://github.com/KWAMEOB/Sales_Data_Analysis" target="_blank" class="image fit"><img src="images/SALES ANALYSIS.jpeg" alt="Sales Data Analysis" /></a>
+								<p>Data Analysis of Sales Dataset using SQL to identify key trends and insights.</p>
+								<ul class="actions special">
+									<li><a href="https://github.com/KWAMEOB/Sales_Data_Analysis" target="_blank" class="button">View Project</a></li>
+								</ul>
+							</article>
+
+							<!-- Tableau Projects -->
+							<article>
+								<header>
+									<h2><a href="https://public.tableau.com/app/profile/kwame.owusu.baah" target="_blank">Tableau Projects<br />
+									</a></h2>
+								</header>
+								<a href="https://public.tableau.com/app/profile/kwame.owusu.baah" target="_blank" class="image fit"><img src="images/tableau.png" alt="Tableau Public Profile" /></a>
+								<p>Collection of my Tableau Visualization Projects, showcasing proficiency in creating compelling dashboards and reports.</p>
+								<ul class="actions special">
+									<li><a href="https://public.tableau.com/app/profile/kwame.owusu.baah" target="_blank" class="button">View Projects</a></li>
+								</ul>
+							</article>
+
+							<!-- Accenture Job Simulation -->
+							<article>
+								<header>
+									<h2><a href="https://www.theforage.com/virtual-internships/rca-accenture-north-america-data-analytics-and-visualization-job-simulation/data-analytics-and-visualization" target="_blank">Accenture North America Data Analytics and Visualization Job Simulation<br />
+									</a></h2>
+									<p class="date">March 2024</p>
+								</header>
+								<a href="images/accenture.png" class="image fit"><img src="images/accenture.png" alt="Accenture Job Simulation" /></a>
+								<p>Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture. Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions. Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.</p>
+								<ul class="actions special">
+									<li><a href="https://www.theforage.com/virtual-internships/rca-accenture-north-america-data-analytics-and-visualization-job-simulation/data-analytics-and-visualization" target="_blank" class="button">Learn More</a></li>
+								</ul>
+							</article>
+
+							<!-- PwC US Management Consulting Job Simulation -->
+							<article>
+								<header>
+									<h2><a href="https://www.theforage.com/virtual-internships/rca-pwc-us-management-consulting-job-simulation" target="_blank">PwC US Management Consulting Job Simulation<br />
+									</a></h2>
+									<p class="date">January 2024</p>
+								</header>
+								<a href="images/pwc.png" class="image fit"><img src="images/pwc.png" alt="PwC Job Simulation" /></a>
+								<p>Completed a job simulation focused on business transaction diligence for a PwC management consulting team. Created a three-slide presentation for synergy potential in a transaction. Built a model with editable fields and assumptions. Wrote a clear, concise email summary to communicate findings.</p>
+								<ul class="actions special">
+									<li><a href="https://www.theforage.com/virtual-internships/rca-pwc-us-management-consulting-job-simulation" target="_blank" class="button">Learn More</a></li>
+								</ul>
+							</article>
+
+						</section>
+
+						<!-- Certifications Section -->
+						<section id="certifications" class="post featured">
+							<header class="major">
+								<h2>Professional Certifications</h2>
+							</header>
+							<ul>
+								<li><strong>IBM Data Science Professional Certificate</strong> | Coursera | January 2023</li>
+								<li><strong>Google Data Analytics Professional Certificate</strong> | Coursera | July 2022</li>
+								<li><strong>Ghana Securities Industry Certification</strong> | Ghana Stock Exchange | May 2016 - August 2016</li>
+							</ul>
+							<h3>Education</h3>
+							<ul>
+								<li><strong>Master of Business Administration (MBA), Business Analytics Emphasis</strong> | University of West Florida | May 2025 GPA: 3.97</li>
+								<li><strong>Bachelor of Science, Banking & Finance</strong> | Central University (Ghana) | October 2006 - December 2012</li>
+							</ul>
+						</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section id="contact" class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p>Orlando, FL (Resume states Orlando, FL, not Altamonte Springs)</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="tel:+19802029150">(980) 202-9150</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="mailto:kwameowusubaah@gmail.com">kwameowusubaah@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/kwame-owusu-baah-b71b4361/" target="_blank" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/KWAMEOB" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.kaggle.com/kwameob" target="_blank" class="icon brands alt fa-kaggle"><span class="label">Kaggle</span></a></li>
+									<li><a href="https://public.tableau.com/app/profile/kwame.owusu.baah" target="_blank" class="icon brands alt fa-tableau"><span class="label">Tableau Public</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Kwame Owusu-Baah</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
